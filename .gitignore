@@ -15,7 +15,7 @@ xcuserdata/
 !**.xcodeproj/xcshareddata/
 !*.xcodeproj/project.xcworkspace/
 !**.xcodeproj/project.xcworkspace/
-!*.xcworkspace/contents.xcworkspacedata
+*.xcworkspace/xcuserdata/*
 !**.xcworkspace/contents.xcworkspacedata
 /*.gcno
 **.gcno
