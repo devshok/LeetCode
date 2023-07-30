@@ -1,3 +1,8 @@
+## Currently number of the solved tasks by difficulties:
+| Easy  | Medium | Hard  |
+| :---: | :---:  | :---: |
+| 0     | 1      | 0     |
+
 # Solved tasks:
 | Name                                   | Difficulty  | Solution URL                      | LeetCode URL                        |
 | :---                                   | :---:       | :---                              | :---                                |
