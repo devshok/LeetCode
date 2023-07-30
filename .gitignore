@@ -8,11 +8,17 @@ xcuserdata/
 
 ### Xcode Patch ###
 *.xcodeproj/*
+**/.xcodeproj/*
 !*.xcodeproj/project.pbxproj
+!**.xcodeproj/project.pbxproj
 !*.xcodeproj/xcshareddata/
+!**.xcodeproj/xcshareddata/
 !*.xcodeproj/project.xcworkspace/
+!**.xcodeproj/project.xcworkspace/
 !*.xcworkspace/contents.xcworkspacedata
+!**.xcworkspace/contents.xcworkspacedata
 /*.gcno
+**.gcno
 **/xcshareddata/WorkspaceSettings.xcsettings
 
 ## macOS files
