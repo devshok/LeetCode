@@ -1,5 +1,3 @@
-![A wallpaper of current repo just for visual improvement](https://ibb.co/zHdW11J)
-
 ## Currently number of the solved tasks by difficulties:
 | Easy  | Medium | Hard  |
 | :---: | :---:  | :---: |
