@@ -3,9 +3,9 @@
 There's a list of tasks taken from LeetCode with solutions created by me just for fun and practice!
 
 ## Currently number of the solved tasks by difficulties:
-| Easy  | Medium | Hard  |
-| :---: | :---:  | :---: |
-| 1     | 2      | 0     |
+| Total   | Easy  | Medium | Hard  |
+| :---:   | :---: | :---:  | :---: |
+| **3**   | 1     | 2      | 0     |
 
 ## Solved tasks:
 | Name | Difficulty  | My solution | LeetCode Description | Beats users by runtime | Beats users by memory |
